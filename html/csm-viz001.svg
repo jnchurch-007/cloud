@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="620" viewBox="0 0 1000 620" version="1.1">
+	<!--Figure start-->
+	<g transform="rotate (0, 175, 131.5)">
+		<image x="156.20499999999998" y="101.82368421052631" width="37.59" height="59.352631578947374" xlink:href="http://diagramo.com/editor/lib/sets/network/5_server.svg" />
+	</g>
+	<text y="160.5625"  transform="rotate(0 175 ,166.5625)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="175" dy="12"></tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<g transform="rotate (0, 278, 131.5)">
+		<image x="259.205" y="101.82368421052631" width="37.59" height="59.352631578947374" xlink:href="http://diagramo.com/editor/lib/sets/network/5_server.svg" />
+	</g>
+	<text y="160.5625"  transform="rotate(0 278 ,166.5625)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="278" dy="12"></tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="64.5"  transform="rotate(0 177 ,78)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="177" dy="12">E-COMMERCE</tspan>
+		<tspan x="177" dy="15">192.168.75.1</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="64.5"  transform="rotate(0 278 ,78)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="278" dy="12">WEB-SERVER</tspan>
+		<tspan x="278" dy="15">192.168.95.2</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<polygon points="9.905512338546245,239 125.09207406427234,239 125.09207406427234,306.867790955783 9.905512338546245,306.867790955783 "  style="stroke:#000000;fill:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="266.93388"  transform="rotate(0 67.49883 ,272.93388)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="67.49883" dy="12">TRUSTED ZONE</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<g transform="rotate (0, 183, 324.5)">
+		<image x="158.625" y="308.5816326530612" width="48.75" height="31.836734693877553" xlink:href="http://diagramo.com/editor/lib/sets/network/2_switch.svg" />
+	</g>
+	<text y="339.6875"  transform="rotate(0 183 ,345.6875)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="183" dy="12">LAN SWITCH 2</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<g transform="rotate (0, 282, 325.5)">
+		<image x="257.625" y="309.5816326530612" width="48.75" height="31.836734693877553" xlink:href="http://diagramo.com/editor/lib/sets/network/2_switch.svg" />
+	</g>
+	<text y="340.6875"  transform="rotate(0 282 ,346.6875)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="282" dy="12">LAN SWITCH 1</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<g transform="rotate (0, 384, 329.5)">
+		<image x="359.625" y="313.5816326530612" width="48.75" height="31.836734693877553" xlink:href="http://diagramo.com/editor/lib/sets/network/2_switch.svg" />
+	</g>
+	<text y="344.6875"  transform="rotate(0 384 ,350.6875)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="384" dy="12">DMZ SWITCH</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<g transform="rotate (0, 538, 61.5)">
+		<image x="488" y="11.5" width="100" height="100" xlink:href="http://diagramo.com/editor/lib/sets/network/4_cloud.svg" />
+	</g>
+	<text y="110.5"  transform="rotate(0 538 ,116.5)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="538" dy="12"></tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="54.5"  transform="rotate(0 536 ,62)"  font-family="Arial"  font-size="15"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="536" dy="15">INTERNET</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<g transform="rotate (0, 530.56554, 288.4522)">
+		<image x="510.6311136156705" y="265.6699984179091" width="39.86885276865913" height="45.56440316418187" xlink:href="http://diagramo.com/editor/lib/sets/network/6_firewall.svg" />
+	</g>
+	<text y="309.32751"  transform="rotate(0 530.56554 ,315.32751)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="530.56554" dy="12">FIREWALL</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="258.5"  transform="rotate(0 464 ,272)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="464" dy="12">192.168.95.0/24</tspan>
+		<tspan x="464" dy="15">192.168.75.0/24</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="273"  transform="rotate(0 601 ,279)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="601" dy="12">192.168.50.0/24</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<g transform="rotate (0, 529, 172.5)">
+		<image x="504.625" y="156.58163265306123" width="48.75" height="31.836734693877553" xlink:href="http://diagramo.com/editor/lib/sets/network/3_router.svg" />
+	</g>
+	<text y="187.6875"  transform="rotate(0 529 ,193.6875)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="529" dy="12"></tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="160.5"  transform="rotate(0 608 ,174)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="608" dy="12">ROUTER GATEWAY</tspan>
+		<tspan x="608" dy="15">XXX.XXX.XXX.XXX/29</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<g transform="rotate (0, 737, 106.5)">
+		<image x="712.625" y="79.63775510204081" width="48.75" height="53.72448979591837" xlink:href="http://diagramo.com/editor/lib/sets/network/16_wireless_router.svg" />
+	</g>
+	<text y="132.4765"  transform="rotate(0 737 ,138.4765)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="737" dy="12"></tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="48.5"  transform="rotate(0 748 ,62)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="748" dy="12">SECURE WIRELWSS ACCESS POINT</tspan>
+		<tspan x="748" dy="15">10.10.0.0/24</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<g transform="rotate (0, 737.75887, 211.38325)">
+		<image x="715.7398952734941" y="197.6665116457832" width="44.03794945301184" height="27.433476708433606" xlink:href="http://diagramo.com/editor/lib/sets/network/15_ups.svg" />
+	</g>
+	<text y="222.74155"  transform="rotate(0 737.75887 ,228.74155)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="737.75887" dy="12"></tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="229.5"  transform="rotate(0 733 ,243)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="733" dy="12">NAS</tspan>
+		<tspan x="733" dy="15">192.168.75.1</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<g transform="rotate (0, 883, 96.5)">
+		<image x="864.205" y="66.82368421052631" width="37.59" height="59.352631578947374" xlink:href="http://diagramo.com/editor/lib/sets/network/5_server.svg" />
+	</g>
+	<text y="125.5625"  transform="rotate(0 883 ,131.5625)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="883" dy="12"></tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="124.5"  transform="rotate(0 888 ,138)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="888" dy="12">DOCUMENT STORAGE</tspan>
+		<tspan x="888" dy="15">192.168.75.3</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<g transform="rotate (0, 875.28935, 226.39421)">
+		<image x="853.6288954266631" y="202.52350495999607" width="43.32090914667379" height="47.741410080007846" xlink:href="http://diagramo.com/editor/lib/sets/network/16_wireless_router.svg" />
+	</g>
+	<text y="248.68924"  transform="rotate(0 875.28935 ,254.68924)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="875.28935" dy="12"></tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<g transform="rotate (0, 878.64177, 250.14177)">
+		<image x="848.9999889693453" y="220.49998896934537" width="59.28356206130928" height="59.28356206130928" xlink:href="http://diagramo.com/editor/lib/sets/network/9_desktop.svg" />
+	</g>
+	<text y="279.95894"  transform="rotate(0 878.64177 ,285.95894)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="878.64177" dy="12"></tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="171.5"  transform="rotate(0 883 ,185)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="883" dy="12">SCANNING STATION</tspan>
+		<tspan x="883" dy="15">192.168.75.2</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<polygon points="829,312.39586288896663 893.475085380488,312.39586288896663 921.107264829268,336 856.6321794487809,336 "  style="stroke:#c0c0c0;fill:#999999;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="318.19792"  transform="rotate(0 875.05364 ,324.19792)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="875.05364" dy="12"></tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<polygon points="841.3406630858547,381.28297205268495 853.9306376542834,338.95380444997926 924.6426624435695,340.2399032240843 912.052687875146,382.5690708267905 "  style="stroke:#c0c0c0;fill:#ccffff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="354.76141"  transform="rotate(286.5642621071524 882.99164 ,360.76141)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="882.99164" dy="12"></tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="385"  transform="rotate(0 873 ,391)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="873" dy="12">SCANNER</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<g transform="rotate (0, 909.81111, 109.04778)">
+		<image x="898.5433636430271" y="92.2450003448649" width="22.535492713945903" height="33.6055593102702" xlink:href="http://diagramo.com/editor/lib/sets/network/14_database.svg" />
+	</g>
+	<text y="121.83882"  transform="rotate(0 909.81111 ,127.83882)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="909.81111" dy="12"></tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<g transform="rotate (0, 99, 508.5)">
+		<image x="80.205" y="478.8236842105263" width="37.59" height="59.352631578947374" xlink:href="http://diagramo.com/editor/lib/sets/network/5_server.svg" />
+	</g>
+	<text y="537.5625"  transform="rotate(0 99 ,543.5625)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="99" dy="12"></tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<g transform="rotate (0, 220, 508.5)">
+		<image x="201.20499999999998" y="478.8236842105263" width="37.59" height="59.352631578947374" xlink:href="http://diagramo.com/editor/lib/sets/network/5_server.svg" />
+	</g>
+	<text y="537.5625"  transform="rotate(0 220 ,543.5625)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="220" dy="12"></tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<g transform="rotate (0, 328, 508.5)">
+		<image x="309.205" y="478.8236842105263" width="37.59" height="59.352631578947374" xlink:href="http://diagramo.com/editor/lib/sets/network/5_server.svg" />
+	</g>
+	<text y="537.5625"  transform="rotate(0 328 ,543.5625)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="328" dy="12"></tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<g transform="rotate (0, 537, 508.5)">
+		<image x="518.205" y="478.8236842105263" width="37.59" height="59.352631578947374" xlink:href="http://diagramo.com/editor/lib/sets/network/5_server.svg" />
+	</g>
+	<text y="537.5625"  transform="rotate(0 537 ,543.5625)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="537" dy="12"></tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<g transform="rotate (0, 638, 508.5)">
+		<image x="619.205" y="478.8236842105263" width="37.59" height="59.352631578947374" xlink:href="http://diagramo.com/editor/lib/sets/network/5_server.svg" />
+	</g>
+	<text y="537.5625"  transform="rotate(0 638 ,543.5625)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="638" dy="12"></tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<g transform="rotate (0, 744, 507.5)">
+		<image x="725.205" y="477.8236842105263" width="37.59" height="59.352631578947374" xlink:href="http://diagramo.com/editor/lib/sets/network/5_server.svg" />
+	</g>
+	<text y="536.5625"  transform="rotate(0 744 ,542.5625)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="744" dy="12"></tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<g transform="rotate (0, 852, 507.5)">
+		<image x="833.205" y="477.8236842105263" width="37.59" height="59.352631578947374" xlink:href="http://diagramo.com/editor/lib/sets/network/5_server.svg" />
+	</g>
+	<text y="536.5625"  transform="rotate(0 852 ,542.5625)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="852" dy="12"></tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<g transform="rotate (0, 437, 508.5)">
+		<image x="418.205" y="478.8236842105263" width="37.59" height="59.352631578947374" xlink:href="http://diagramo.com/editor/lib/sets/network/5_server.svg" />
+	</g>
+	<text y="537.5625"  transform="rotate(0 437 ,543.5625)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="437" dy="12"></tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="449.5"  transform="rotate(0 100 ,463)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="100" dy="12">DC1</tspan>
+		<tspan x="100" dy="15">192.168.50.1</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="449.5"  transform="rotate(0 222 ,463)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="222" dy="12">DC1</tspan>
+		<tspan x="222" dy="15">192.168.50.2</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="449.5"  transform="rotate(0 327 ,463)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="327" dy="12">APP1</tspan>
+		<tspan x="327" dy="15">192.168.50.3</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="449.5"  transform="rotate(0 440 ,463)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="440" dy="12">PRINTSERVE</tspan>
+		<tspan x="440" dy="15">192.168.50.4</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="448.5"  transform="rotate(0 538 ,462)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="538" dy="12">SQL2005</tspan>
+		<tspan x="538" dy="15">192.168.50.5</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="449.5"  transform="rotate(0 639 ,463)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="639" dy="12">CERT1</tspan>
+		<tspan x="639" dy="15">192.168.50.6</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="448.5"  transform="rotate(0 745 ,462)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="745" dy="12">DFS-ROOT</tspan>
+		<tspan x="745" dy="15">192.168.50.7</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="448.5"  transform="rotate(0 851 ,462)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="851" dy="12">EXCHANGE</tspan>
+		<tspan x="851" dy="15">192.168.50.8</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="536.5"  transform="rotate(0 100 ,550)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="100" dy="12">Domain</tspan>
+		<tspan x="100" dy="15">Controller</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="536.5"  transform="rotate(0 221 ,550)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="221" dy="12">Domain</tspan>
+		<tspan x="221" dy="15">Controller</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="536.5"  transform="rotate(0 328 ,550)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="328" dy="12">Application</tspan>
+		<tspan x="328" dy="15">Server</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="538"  transform="rotate(0 447 ,544)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="447" dy="12">Print Server</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<g transform="rotate (0, 465.32207, 526.82207)">
+		<image x="449.99998809205977" y="512.4576182113061" width="30.644163815880418" height="28.72890357738789" xlink:href="http://diagramo.com/editor/lib/sets/network/13_printer.svg" />
+	</g>
+	<text y="539.33626"  transform="rotate(0 465.32207 ,545.33626)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="465.32207" dy="12"></tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<g transform="rotate (0, 563.5825, 521.22854)">
+		<image x="553.5347156339029" y="506.2450019102061" width="20.09556873219414" height="29.96707617958775" xlink:href="http://diagramo.com/editor/lib/sets/network/14_database.svg" />
+	</g>
+	<text y="531.98508"  transform="rotate(0 563.5825 ,537.98508)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="563.5825" dy="12"></tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="538"  transform="rotate(0 545 ,544)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="545" dy="12">SQL Server</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="535.5"  transform="rotate(0 639 ,549)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="639" dy="12">Certificate</tspan>
+		<tspan x="639" dy="15">Server</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="535.5"  transform="rotate(0 746 ,549)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="746" dy="12">DFS File</tspan>
+		<tspan x="746" dy="15">Server</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="535.5"  transform="rotate(0 853 ,549)"  font-family="Arial"  font-size="12"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="853" dy="12">Exchange</tspan>
+		<tspan x="853" dy="15">Server</tspan>
+	</text>
+	<!--Figure end-->
+
+	<!--Figure start-->
+	<text y="579"  transform="rotate(0 814 ,587)"  font-family="Arial"  font-size="16"  fill=" #000000"  text-anchor="middle" >
+		<tspan x="814" dy="16">Sample ABC, Incorporated</tspan>
+	</text>
+	<!--Figure end-->
+<polyline points="259.205,131.5 193.79500000000002,131.5 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="226.5,126.5 226.5,126.5 226.5,136.5 226.5,136.5 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="126.5"  transform="rotate(0 226.5 ,131.5)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="226.5" dy="10"></tspan>
+	</text><polyline points="125.09207406427234,282.62929418586054 155.09207406427234,282.62929418586054 197,282.62929418586054 197,309 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="142,272 142,272 142,282 142,282 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="272"  transform="rotate(0 142 ,277)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="142" dy="10"></tspan>
+	</text><polyline points="183,308.3125 183,291.3125 125,291.3125 125,291 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="145.65625,286.3125 145.65625,286.3125 145.65625,296.3125 145.65625,296.3125 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="286.3125"  transform="rotate(0 145.65625 ,291.3125)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="145.65625" dy="10"></tspan>
+	</text><polyline points="169,309 169,300 123,300 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="184,296 184,296 184,306 184,306 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="296"  transform="rotate(0 184 ,301)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="184" dy="10"></tspan>
+	</text><polyline points="125.09207406427234,263.23849676992245 155.09207406427234,263.23849676992245 270,263.23849676992245 270,310 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="140,251 140,251 140,261 140,261 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="251"  transform="rotate(0 140 ,256)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="140" dy="10"></tspan>
+	</text><polyline points="282,309.3125 282,279.3125 282,256 124,256 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="298,297 298,297 298,307 298,307 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="297"  transform="rotate(0 298 ,302)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="298" dy="10"></tspan>
+	</text><polyline points="295,310 295,249 124,249 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="310,297 310,297 310,307 310,307 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="297"  transform="rotate(0 310 ,302)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="310" dy="10"></tspan>
+	</text><polyline points="371,315 371,212 114,212 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="188,205 188,205 188,215 188,215 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="205"  transform="rotate(0 188 ,210)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="188" dy="10"></tspan>
+	</text><polyline points="156.20499999999998,131.5 126.20499999999998,131.5 114,131.5 114,211 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="169,116 169,116 169,126 169,126 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="116"  transform="rotate(0 169 ,121)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="169" dy="10"></tspan>
+	</text><polyline points="384,313.3125 384,283.3125 384,123 713,123 " style="stroke:#0000ff;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="417.84375,158 417.84375,158 417.84375,168 417.84375,168 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="158"  transform="rotate(0 417.84375 ,163)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="417.84375" dy="10"></tspan>
+	</text><polyline points="400,315 400,211.38323841826625 685.6664982758042,211.38323841826625 715.6664970617337,211.38323841826625 " style="stroke:#ff0000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="449.5,208 449.5,208 449.5,218 449.5,218 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="208"  transform="rotate(0 449.5 ,213)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="449.5" dy="10"></tspan>
+	</text><polyline points="510.55150038618035,288.4522023482785 471.06554000000006,288.4522023482785 404,288.4522023482785 404,325 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="436.06369,283.4522 436.06369,283.4522 436.06369,293.4522 436.06369,293.4522 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="283.4522"  transform="rotate(0 436.06369 ,288.4522)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="436.06369" dy="10"></tspan>
+	</text><polyline points="550.5795747936365,288.4522023482785 590.06554,288.4522023482785 590.06554,385 183,385 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="318.51589,380 318.51589,380 318.51589,390 318.51589,390 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="380"  transform="rotate(0 318.51589 ,385)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="318.51589" dy="10"></tspan>
+	</text><polyline points="183,359.6875 183,384 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="198,348 198,348 198,358 198,358 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="348"  transform="rotate(0 198 ,353)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="198" dy="10"></tspan>
+	</text><polyline points="282,360.6875 282,384 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="297,349 297,349 297,359 297,359 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="349"  transform="rotate(0 297 ,354)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="297" dy="10"></tspan>
+	</text><polyline points="530.5655375899084,265.67000076618757 530,187 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="530.28277,221.335 530.28277,221.335 530.28277,231.335 530.28277,231.335 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="221.335"  transform="rotate(0 530.28277 ,226.335)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="530.28277" dy="10"></tspan>
+	</text><polyline points="529,156.3125 529,96 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="545,143 545,143 545,153 545,153 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="143"  transform="rotate(0 545 ,148)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="545" dy="10"></tspan>
+	</text><polyline points="759.8512405101247,211.38323841826625 789.8512417241958,211.38323841826625 789.8512417241958,96.5 834.205,96.5 864.205,96.5 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="789.85124,171.1185 789.85124,171.1185 789.85124,181.1185 789.85124,181.1185 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="171.1185"  transform="rotate(0 789.85124 ,176.1185)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="789.85124" dy="10"></tspan>
+	</text><polyline points="875,279 874,310 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="888,297 888,297 888,307 888,307 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="297"  transform="rotate(0 888 ,302)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="888" dy="10"></tspan>
+	</text><polyline points="158.625,324.5 158.625,323.3125 50.205,323.3125 50.205,508.5 80.205,508.5 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="50.205,371.1025 50.205,371.1025 50.205,381.1025 50.205,381.1025 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="371.1025"  transform="rotate(0 50.205 ,376.1025)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="50.205" dy="10"></tspan>
+	</text><polyline points="117.79500000000002,508.5 201.20499999999998,508.5 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="131,494 131,494 131,504 131,504 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="494"  transform="rotate(0 131 ,499)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="131" dy="10"></tspan>
+	</text><polyline points="238.79500000000002,508.5 309.205,508.5 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="255,494 255,494 255,504 255,504 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="494"  transform="rotate(0 255 ,499)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="255" dy="10"></tspan>
+	</text><polyline points="346.795,508.5 418.205,508.5 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="364,498 364,498 364,508 364,508 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="498"  transform="rotate(0 364 ,503)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="364" dy="10"></tspan>
+	</text><polyline points="455.795,508.5 518.2049999999999,508.5 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="471,495 471,495 471,505 471,505 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="495"  transform="rotate(0 471 ,500)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="471" dy="10"></tspan>
+	</text><polyline points="555.7950000000001,508.5 619.2049999999999,508.5 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="570,494 570,494 570,504 570,504 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="494"  transform="rotate(0 570 ,499)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="570" dy="10"></tspan>
+	</text><polyline points="656.795,508.5 725.205,507.5 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="673,494 673,494 673,504 673,504 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="494"  transform="rotate(0 673 ,499)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="673" dy="10"></tspan>
+	</text><polyline points="762.795,507.5 833.205,507.5 " style="stroke:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;" />
+	<polygon points="798,502.5 798,502.5 798,512.5 798,512.5 "  style="stroke:none;fill:#FFFFFF;stroke-width:none;stroke-linecap:butt;stroke-linejoin:miter;"  />
+	<text y="502.5"  transform="rotate(0 798 ,507.5)"  font-family="Arial"  font-size="10"  text-anchor="middle" >
+		<tspan x="798" dy="10"></tspan>
+	</text>
+</svg>
